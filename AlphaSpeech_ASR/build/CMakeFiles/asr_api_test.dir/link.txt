@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/asr_api_test.dir/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/asr_api_test.o -o asr_api_test  -Wl,-rpath,/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build libasr.so -lm 

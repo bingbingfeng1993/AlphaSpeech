@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/src/utils/ctc_prefix_beam_search.h
+
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/ctc_prefix_beam_search_test.c
+stdio.h
+-
+float.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+../src/utils/ctc_prefix_beam_search.h
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/src/utils/ctc_prefix_beam_search.h
+

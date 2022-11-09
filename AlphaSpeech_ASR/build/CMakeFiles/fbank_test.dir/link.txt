@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/fbank_test.dir/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/fbank_test.o -o fbank_test  -Wl,-rpath,/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build libasr.so -lm 

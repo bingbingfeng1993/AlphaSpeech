@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/src/utils/inverse_text_normalization.h
+stdbool.h
+-
+
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/inverse_text_normalization_test.c
+assert.h
+-
+stdio.h
+-
+float.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+../src/utils/inverse_text_normalization.h
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/src/utils/inverse_text_normalization.h
+

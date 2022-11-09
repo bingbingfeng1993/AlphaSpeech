@@ -1,0 +1,15 @@
+python inference_.py --gpu -1 \
+  --mode ctc_prefix_beam_search \
+  --config exp/conformer/train.yaml \
+  --data_type raw \
+  --test_data BAC009S0901W0288.wav \
+  --checkpoint exp/conformer/avg_30.pt \
+  --beam_size 10 \
+  --batch_size 1 \
+  --penalty 0.0 \
+  --dict data/dict/lang_char.txt \
+  --ctc_weight 0.3 \
+  --reverse_weight 0.0 \
+  --result_file asr_text \
+  --decoding_chunk_size 16 \
+  --simulate_streaming

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/inverse_text_normalization_test.dir/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/inverse_text_normalization_test.o -o inverse_text_normalization_test  -Wl,-rpath,/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build libasr.so -lm 

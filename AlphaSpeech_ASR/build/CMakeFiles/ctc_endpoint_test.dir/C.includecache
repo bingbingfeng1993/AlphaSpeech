@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/src/utils/ctc_endpoint.h
+
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/ctc_endpoint_test.c
+assert.h
+-
+stdio.h
+-
+float.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+../src/utils/ctc_endpoint.h
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/src/utils/ctc_endpoint.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/post_processor_test.dir/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/post_processor_test.o -o post_processor_test  -Wl,-rpath,/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build libasr.so -lm 

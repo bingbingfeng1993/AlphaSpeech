@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/ctc_prefix_beam_search_wrt_timestamp_test.dir/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/ctc_prefix_beam_search_wrt_timestamp_test.o -o ctc_prefix_beam_search_wrt_timestamp_test  -Wl,-rpath,/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build libasr.so -lm 

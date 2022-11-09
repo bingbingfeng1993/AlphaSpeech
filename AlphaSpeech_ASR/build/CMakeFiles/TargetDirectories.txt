@@ -1,0 +1,10 @@
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/rebuild_cache.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/edit_cache.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/inverse_text_normalization_test.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/asr_api_test.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/ctc_endpoint_test.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/post_processor_test.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/asr.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/fbank_test.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/ctc_prefix_beam_search_test.dir
+/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build/CMakeFiles/ctc_prefix_beam_search_wrt_timestamp_test.dir

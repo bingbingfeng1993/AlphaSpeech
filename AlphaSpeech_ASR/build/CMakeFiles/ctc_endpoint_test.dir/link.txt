@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/ctc_endpoint_test.dir/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/test/ctc_endpoint_test.o -o ctc_endpoint_test  -Wl,-rpath,/home/fengbingbing/nti2022_wohospeech_asr/AlphaSpeech_ASR/build libasr.so -lm 
